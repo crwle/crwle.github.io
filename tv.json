@@ -8,6 +8,6 @@
 		"stream": "https://mcdn.daserste.de/daserste/de/master.m3u8",
 		"schedule": "https://www.radiobob.de/radiobob/empfang/livestream"
 	}, {
-"prefix": "bestofrock", 		"title": "Best of Rock", 		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/bestofrock.png", 		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/bestofrock.png", 		"new": false, 		"stream": "http://streams.radiobob.de/bob-bestofrock/mp3-192/mediaplayer"
+"prefix": "bestofrock", 		"title": "Best of Rock", 		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/bestofrock.png", 		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/bestofrock.png", 		"new": false, 		"stream": "http://tv.rapidiptv.tvip.xyz:80/EdisMahmutovic/7CyKtg585/3826"
 }]
 }
